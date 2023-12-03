@@ -19,6 +19,12 @@ body {
   font-family: "Roboto", sans-serif;
   color: #9fa1a4;
   line-height: 1.5;
+  background-color: white;
+
+}
+.dark-mode {
+  background-color: black;
+  color: white;
 }
 
 a {
